@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CST338_Project2</string>
+    <string name="logout">Logout</string>
+    <string name="previous_purchases">Previous Purchases</string>
+    <string name="account">Account</string>
+    <string name="cart">Cart</string>
+    <string name="purchase_items">Purchase Items</string>
+    <string name="welcome">Welcome!</string>
 </resources>
