@@ -6,4 +6,6 @@
     <string name="cart">Cart</string>
     <string name="purchase_items">Purchase Items</string>
     <string name="welcome">Welcome!</string>
+    <string name="your_account">Your Account</string>
+    <string name="change_password">Change Password</string>
 </resources>

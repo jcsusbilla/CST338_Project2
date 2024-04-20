@@ -24,51 +24,44 @@
       android:id="@+id/purchaseItemsButton"
       android:layout_width="217dp"
       android:layout_height="73dp"
-      android:layout_marginBottom="12dp"
+      android:layout_marginBottom="16dp"
       android:text="@string/purchase_items"
       app:layout_constraintBottom_toTopOf="@+id/previousPurchasesButton"
       app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.448"
       app:layout_constraintStart_toStartOf="parent" />
 
   <Button
       android:id="@+id/previousPurchasesButton"
       android:layout_width="217dp"
       android:layout_height="73dp"
-      android:layout_marginBottom="12dp"
+      android:layout_marginBottom="8dp"
       android:text="@string/previous_purchases"
       app:layout_constraintBottom_toTopOf="@+id/cartButton"
       app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.448"
       app:layout_constraintStart_toStartOf="parent" />
 
   <Button
       android:id="@+id/accountButton"
       android:layout_width="217dp"
       android:layout_height="73dp"
-      android:layout_marginBottom="12dp"
+      android:layout_marginBottom="136dp"
       android:text="@string/account"
-      app:layout_constraintBottom_toTopOf="@+id/button"
-      app:layout_constraintEnd_toEndOf="parent"
-      app:layout_constraintStart_toStartOf="parent" />
-
-  <Button
-      android:id="@+id/button"
-      android:layout_width="217dp"
-      android:layout_height="73dp"
-      android:layout_marginBottom="128dp"
-      android:text="@string/logout"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintEnd_toEndOf="parent"
-
+      app:layout_constraintHorizontal_bias="0.448"
       app:layout_constraintStart_toStartOf="parent" />
 
   <Button
       android:id="@+id/cartButton"
       android:layout_width="217dp"
       android:layout_height="73dp"
-      android:layout_marginBottom="12dp"
+      android:layout_marginBottom="16dp"
       android:text="@string/cart"
       app:layout_constraintBottom_toTopOf="@+id/accountButton"
       app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.448"
       app:layout_constraintStart_toStartOf="parent" />
 
 
