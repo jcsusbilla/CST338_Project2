@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CST338_Project2</string>
+    <string name="welcome">Welcome!</string>
+    <string name="view_purchased_items">View Purchased Items</string>
+    <string name="purchase_items">Purchase Items</string>
+    <string name="change_password">Change Password</string>
+    <string name="admin">ADMIN</string>
+    <string name="greeting">Welcome!</string>
+    <string name="logout">Logout</string>
 </resources>
